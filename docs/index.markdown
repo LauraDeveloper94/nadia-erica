@@ -32,7 +32,6 @@ title: Nadia & Erica
 <section>
   <h3>Danke, dass ihr dabei seid!</h3>
   <p>Wir freuen uns unglaublich, diesen besonderen Tag mit euch zu teilen und gemeinsam mit euch zu feiern. Eure Anwesenheit bedeutet viel! Bitte teilt uns mit, ob ihr kommen könnt.</p>
-  <button>Ich bin dabei!</button>
 </section>
 
 <script>
