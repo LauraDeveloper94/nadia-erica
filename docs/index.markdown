@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Nadia & Erica
+title: Hochzeit Nadia & Erica
 ---
 
 <section>
@@ -13,6 +13,7 @@ title: Nadia & Erica
   <h2>Der große Tag</h2>
   <h3>**13.09.2025**</h3>
   <div id="countdown"></div>
+  <hr>
 </section>
 
 <section>
