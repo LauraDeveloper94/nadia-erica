@@ -10,7 +10,7 @@ Wir heiraten! 🎉
 ## Unsere Geschichte
 Wir lernten uns vor 9 Jahren kennen, als wir einfach nur Spaß haben wollten. Was als unbeschwerter Moment begann, entwickelte sich zu einer tiefen und unerschütterlichen Liebe. Seitdem teilen wir Höhen und Tiefen, lachen, wachsen und leben ein gemeinsames Leben voller Abenteuer und Glück. Jetzt wollen wir den nächsten Schritt gehen und unsere Liebe mit allen feiern.
 
-![Foto de Nadia & Erica](hochzeit.jpg)
+![Foto de Nadia & Erica](hochzeit.jpeg)
 
 
 ---
