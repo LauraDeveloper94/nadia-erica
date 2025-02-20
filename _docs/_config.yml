@@ -2,7 +2,7 @@ title: Hochzeit Nadia & Erica
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   WIR HEIRATEN!
-baseurl: "/hochzeit" # the subpath of your site, e.g. /blog
+baseurl: "/nadia-erica" # the subpath of your site, e.g. /blog
 url: "https://LauraDeveloper94.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  LauraDeveloper94
